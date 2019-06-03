@@ -1,0 +1,19 @@
+{
+  "name": "muchinery",
+  "version": "0.1.0",
+  "description": "Simplified framework for building Node.js microservices",
+  "author": "Luca Stasio <joshuagame@gmail.com>",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "node lib/index.js"
+  },
+  "dependencies": {
+    "awilix": "^4.2.2",
+    "bunyan": "^1.8.12",
+    "config": "^3.1.0",
+    "js-yaml": "^3.13.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}
