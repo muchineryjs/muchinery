@@ -10,10 +10,17 @@
     "dev": "node lib/index.js"
   },
   "dependencies": {
-    "awilix": "^4.2.2",
-    "bunyan": "^1.8.12",
+    "app-root-path": "^2.2.1",
+    "bluebird": "^3.5.5",
     "config": "^3.1.0",
+    "fs": "^0.0.1-security",
     "js-yaml": "^3.13.1",
-    "reflect-metadata": "^0.1.13"
+    "moment": "^2.24.0",
+    "path": "^0.12.7",
+    "reflect-metadata": "^0.1.13",
+    "slf4ts-api": "^1.2.4",
+    "slf4ts-winston": "^1.1.5",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^3.9.0"
   }
 }
