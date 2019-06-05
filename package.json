@@ -13,6 +13,7 @@
     "app-root-path": "^2.2.1",
     "bluebird": "^3.5.5",
     "config": "^3.1.0",
+    "figlet": "^1.2.3",
     "fs": "^0.0.1-security",
     "js-yaml": "^3.13.1",
     "moment": "^2.24.0",
