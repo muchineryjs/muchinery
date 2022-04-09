@@ -16,7 +16,7 @@
     "figlet": "^1.2.3",
     "fs": "^0.0.1-security",
     "js-yaml": "^3.13.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "path": "^0.12.7",
     "reflect-metadata": "^0.1.13",
     "slf4ts-api": "^1.2.4",
